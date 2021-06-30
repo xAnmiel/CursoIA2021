@@ -10,4 +10,3 @@ y = np.array([4,7,2,4,7,8,3])
 #plt.plot(x,linestyle='dotted')
 plt.bar(x,y,label='barra',color='b')
 plt.show()
-
